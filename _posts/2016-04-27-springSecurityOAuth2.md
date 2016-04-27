@@ -7,11 +7,11 @@ categories: Spring_Security
 # Spring Security是什么？
 >**简单来说，Spring Security就是利用filter对url进行拦截，以此来达到权限控制的目的。**  
 
-##有几种实现方式？  
-* 使用数据库
-* 使用配置文件
-* 使用filter拦截
-* 修改源码  
+## 有几种实现方式？  
++ 使用数据库
++ 使用配置文件
++ 使用filter拦截
++ 修改源码  
 **第一种是实际应用中经常使用的，配置文件多适用于测试，至于用filter拦截和修改源码一般不推荐。**
 
 ## 核心流程  
