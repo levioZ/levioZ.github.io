@@ -12,6 +12,15 @@ icon: bookmark
 
 * [markdown在线编辑](http://mahua.jser.me/)    
 
+## 学习网站
+
+* [runoob.com](http://www.runoob.com/)
+* [博客园](http://www.cnblogs.com/)
+* [importnew](http://www.importnew.com/)
+* [开源中国](http://www.oschina.net/)
+* [IBM](http://www.ibm.com/developerworks/cn/java/)
+* [iteye](http://www.iteye.com/)
+
 
 ## ES6 相关
 
