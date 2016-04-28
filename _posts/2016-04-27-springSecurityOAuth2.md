@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "springSecurity+OAuth2"
-date:   2016-04-27
-categories: Spring_Security
+title:  "springSecurity Oauth2"
+date:   2016-04-27 15:30:54
+categories: spring
+tags: jekyll spring Security
 ---
 * content
 {:toc}
