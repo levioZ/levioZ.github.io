@@ -3,7 +3,6 @@ layout: post
 title:  "springSecurity+OAuth2"
 date:   2016-04-27
 categories: Spring_Security
-tags: spring security
 ---
 * content
 {:toc}
