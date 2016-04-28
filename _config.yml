@@ -7,7 +7,7 @@
 
 # Site settings
 title: Eli
-brief-intro: Front-end Dev Engineer
+brief-intro: Java&Hybris Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
 
@@ -21,7 +21,7 @@ email: #tt
 weibo_username: #tt
 zhihu_username: #tt
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: Learning and Growing
 
 # comments
 # two ways to comment, only choose one, and use your own short name
