@@ -3,7 +3,7 @@ layout: post
 title:  "hello world!"
 date:   2016-03-17 15:14:54
 categories:  jekyll
-tags: jekyll RubyGems
+tags: jekyll 
 ---
 
 
