@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "springSecurity Oauth2"
-date:   2016-04-27 15:30:54
+date:   2016-04-28 15:30:54
 categories: spring
 tags: spring Security
 author: eli

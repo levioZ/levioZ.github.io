@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "multi thread"
-date:   2016-04-27 15:43:00
+date:   2016-04-28 15:43:00
 categories:  bookmark
 tags: java thread
 ---
@@ -15,3 +15,5 @@ tags: java thread
 * [各种同步方法性能比较(synchronized,ReentrantLock,Atomic)](http://my.oschina.net/leoson/blog/107327?fromerr=ClDSg66Q)
 * [Java 理论与实践: 正确使用 Volatile 变量](http://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
 * [Java 多线程实现生产者消费者问题（wait/notify）](http://www.2cto.com/kf/201504/388655.html)
+* [Joda-Time](http://www.ibm.com/developerworks/cn/java/j-jodatime.html '解决dataformat的同步问题')
+* [彻底理解ThreadLocal](http://blog.csdn.net/lufeng20/article/details/24314381)

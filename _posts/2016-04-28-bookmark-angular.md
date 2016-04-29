@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "angular"
-date:   2016-04-27 15:43:00
+date:   2016-04-28 15:43:00
 categories:  bookmark
-tags: angular 
+tags: angular
 ---
 * content
 {:toc}    
@@ -21,3 +21,4 @@ tags: angular
 * [七步从Angular.JS菜鸟到专家（1）：如何开始](http://blog.jobbole.com/46779/)
 * [AngularJS最佳编码实践指南](http://blog.jobbole.com/80634/)
 * [(译) Angular运行原理揭秘 Part 1](http://www.cnblogs.com/woshinidezhu/p/4061964.html)
+* [Build custom directives with AngularJS](http://www.ng-newsletter.com/posts/directives.html)

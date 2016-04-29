@@ -10,7 +10,8 @@ icon: bookmark
 
 ## 工具
 
-* [markdown在线编辑](http://mahua.jser.me/)    
+* [markdown在线编辑](http://mahua.jser.me/)
+* [Smart Address Validation](http://www.pcapredict.com/en-gb/address-capture-software/)    
 
 ## 学习网站
 
@@ -20,6 +21,9 @@ icon: bookmark
 * [开源中国](http://www.oschina.net/)
 * [IBM](http://www.ibm.com/developerworks/cn/java/)
 * [iteye](http://www.iteye.com/)
+* [可汗学院](https://www.khanacademy.org)
+* [infoq](http://www.infoq.com/cn/)
+* [csdn](http://blog.csdn.net/)
 
 
 ## ES6 相关
