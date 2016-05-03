@@ -15,4 +15,5 @@ tags: spring Security oauth2
 * [使用 Spring Boot 快速构建 Spring 框架应用](http://www.ibm.com/developerworks/cn/java/j-lo-spring-boot/)
 * [应用Spring MVC发布restful服务是怎样的一种体验](http://www.cnblogs.com/wgp13x/p/4544973.html)
 * [最详细的Log4j使用教程](http://www.codeceo.com/article/log4j-usage.html)
-* [Spring Security教程系列（一）基础篇-1](http://www.cnblogs.com/crazylqy/p/4999724.html)
+* [Spring Security教程系列（一）基础篇-1](http://www.cnblogs.com/crazylqy/p/4999724.html)  
+* [Spring Security安全框架入门篇](http://blog.csdn.net/u013142781/article/details/50631663?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
