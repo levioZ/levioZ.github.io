@@ -56,7 +56,7 @@ icon: bookmark
 ## 技术的博客
 
 * [凳子_Joinery 邓智容  http://www.dengzhr.com/](http://www.dengzhr.com/)  
-* [王成委 http://blog.csdn.net/jaune161](http://blog.csdn.net/jaune161)
+* [周XXXX](http://blog.csdn.net/z69183787/article/category/2175163)
 
 ## Comments
 
