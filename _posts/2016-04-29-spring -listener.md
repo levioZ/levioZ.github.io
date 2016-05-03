@@ -4,6 +4,7 @@ title:  "Java中的Listener 监听器(转载)"
 date:   2016-04-29 15:43:00
 categories:  spring
 tags: spring Listener
+excerpt: 监听器Listener就是在application,session,request三个对象创建、销毁或者往其中添加修改删除属性时自动执行代码的功能组件。Listener是Servlet的监听器，可以监听客户端的请求，服务端的操作等。
 ---
 * content
 {:toc}  

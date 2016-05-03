@@ -4,6 +4,7 @@ title:  "Java中的Filter 过滤器(转载)"
 date:   2016-04-29 15:43:00
 categories:  spring
 tags: servlet filter
+excerpt: Filter也称之为过滤器，它是Servlet技术中最实用的技术，WEB开发人员通过Filter技术，对web服务器管理的所有web资源：例如Jsp, Servlet, 静态图片文件或静态 html 文件等进行拦截，从而实现一些特殊的功能。例如实现URL级别的权限访问控制、过滤敏感词汇、压缩响应信息等一些高级功能。 
 ---
 * content
 {:toc}  
