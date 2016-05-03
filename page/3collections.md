@@ -12,6 +12,7 @@ icon: bookmark
 
 * [markdown在线编辑](http://mahua.jser.me/)
 * [Smart Address Validation](http://www.pcapredict.com/en-gb/address-capture-software/)    
+* [Unicode编码 UTF-8编码 URL编码/解码 Unix时间戳 Ascii/Native编码互转](http://tool.chinaz.com/tools/urlencode.aspx)
 
 ## 学习网站
 
