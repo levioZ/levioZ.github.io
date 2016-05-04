@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "定义决策管理器及修改权限前缀(转)"
-date:   2016-05-02 16:56:54
+date:   2016-05-03 16:56:54
 categories: spring
 tags: spring Security
 excerpt:  在Spring中引入了投票器（AccessDecisionVoter）的概念，有无权限访问的最终觉得权是由投票器来决定的，最常见的投票器为RoleVoter，在RoleVoter中定义了权限的前缀，先看下Spring在RoleVoter中是怎么处理授权的。

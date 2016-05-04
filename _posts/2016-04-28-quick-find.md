@@ -10,6 +10,8 @@ tags: command keyboard shortcuts
 
 ## Intelllij Idea  
 
+* 查找整个工程中使用地某一个类、方法或者变量的位置  `alt+F7`
+
 ## jekyll  
 
 * hot run server  `jekyll serve --watch`
