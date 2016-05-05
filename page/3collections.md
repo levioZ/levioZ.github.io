@@ -28,6 +28,7 @@ icon: bookmark
 * [stackoverflow](http://stackoverflow.com/)
 * [spring tutorials](https://spring.io/guides#tutorials)
 * [spring doc](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/)
+* [Spring Security Reference Documentation](http://docs.spring.io/spring-security/site/docs/3.0.x/reference/springsecurity.html)
 * [thymeleaf](http://itutorial.thymeleaf.org/)
 
 

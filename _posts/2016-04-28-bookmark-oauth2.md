@@ -13,6 +13,7 @@ tags: oauth2 sso
 * [实现OAuth2.0服务端 授权码模式(Authorization Code)](http://www.cnblogs.com/Irving/p/4134752.html)
 * [ Spring Security 与 Oauth2 整合 步骤](http://blog.csdn.net/monkeyking1987/article/details/16828059)
 * [Implementing OAuth2 with Spring Security](https://raymondhlee.wordpress.com/2014/12/21/implementing-oauth2-with-spring-security/)
+* [Spring security oauth2最简单入门环境搭建--二、干货](http://wwwcomy.iteye.com/blog/2230265)
 
 ## sso
 

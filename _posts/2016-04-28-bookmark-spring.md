@@ -17,3 +17,5 @@ tags: spring Security oauth2
 * [最详细的Log4j使用教程](http://www.codeceo.com/article/log4j-usage.html)
 * [Spring Security教程系列（一）基础篇-1](http://www.cnblogs.com/crazylqy/p/4999724.html)  
 * [Spring Security安全框架入门篇](http://blog.csdn.net/u013142781/article/details/50631663?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Spring Security（1-20）](http://haohaoxuexi.iteye.com/category/182468)
+* [初识 spring security](http://wiki.jikexueyuan.com/project/spring-security/first-experience.html)
