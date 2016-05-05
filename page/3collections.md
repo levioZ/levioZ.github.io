@@ -26,6 +26,9 @@ icon: bookmark
 * [infoq](http://www.infoq.com/cn/)
 * [csdn](http://blog.csdn.net/)
 * [stackoverflow](http://stackoverflow.com/)
+* [spring tutorials](https://spring.io/guides#tutorials)
+* [spring doc](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/)
+* [thymeleaf](http://itutorial.thymeleaf.org/)
 
 
 ## ES6 相关

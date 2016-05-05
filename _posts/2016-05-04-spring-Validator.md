@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "使用Spring的Validator接口进行校验"
-date:   2016-05-03 15:09:00
+date:   2016-05-04 15:09:00
 categories: spring
 tags: java spring Validator
-author: eli
 excerpt: 你可以使用Spring提供的validator接口进行对象的校验。Validator接口与Errors协同工作，在Spring做校验的时候，它会将所有的校验错误汇总到Errors对象中去。
 ---
 * content
