@@ -30,25 +30,7 @@ icon: bookmark
 * [spring doc](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/)
 * [Spring Security Reference Documentation](http://docs.spring.io/spring-security/site/docs/3.0.x/reference/springsecurity.html)
 * [thymeleaf](http://itutorial.thymeleaf.org/)
-
-
-## ES6 相关
-
-* [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/)
-
-## 类库与插件
-
-* [Masonry](http://masonry.desandro.com/)
-
-    瀑布流布局库。
-
-* [jssor](http://www.jssor.com/)
-
-    图片轮播图其 GitHub 地址 [jssor/slider](https://github.com/jssor/slider)
-
-* [cssslider](http://cssslider.com/)
-
-    纯 CSS 的图片轮播图。
+* [极客学院](http://wiki.jikexueyuan.com/list/java/)
 
 ## 框架
 
