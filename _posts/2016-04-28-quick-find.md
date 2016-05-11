@@ -11,6 +11,8 @@ tags: command keyboard shortcuts
 ## Intelllij Idea  
 
 * 查找整个工程中使用地某一个类、方法或者变量的位置  `alt+F7`
+* override/implement `ctrl+o`
+* find method `ctrl+F12`
 
 ## jekyll  
 
@@ -18,12 +20,13 @@ tags: command keyboard shortcuts
 
 ## Atom
 
-* 复制当前行  `ctrl+shift+d`  
+* copy and move  `ctrl+shift+d`
+
 
 ## Eclipse  
 
-* 复制当前行 `ctrl+alt+↓`  
-* 移动当前行 `alt+↓/↑`
+* copy and move `ctrl+alt+↓`  
+* move `alt+↓/↑`
 
 ## Git  
 
