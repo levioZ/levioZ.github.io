@@ -3,7 +3,7 @@ layout: post
 title:  "顽皮的Jalo"
 date:   2016-05-03 17:21:00
 categories: hybris
-tags: hybris
+tags: hybris jalo
 author: eli
 excerpt: Jalo是个淘气鬼，只有坏叔叔才能对付他，嘎嘎
 ---
