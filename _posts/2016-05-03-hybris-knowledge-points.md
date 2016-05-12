@@ -32,7 +32,7 @@ Product p = productmanager.findProductsByCode(...)
 
 ### 如何替换Jalo?
 
-有个例子：  
+1、**自定义jalo**  
 
 ```java
 class MyProduct extends Product
@@ -48,6 +48,11 @@ class MyProduct extends Product
   JaloImplementationManager.replaceCoreJaloClass( Product.class, MyProduct.class );
 ....
 
+```
+
+2、 **你需要自定义一个manager去注册它**
+
+```java
 To make sure you are replacing the class before some other thread is using the old class please do the actual registering inside your manager as follows:
 public class MyProjectManager extends Manager
 {
@@ -65,13 +70,17 @@ public class MyProjectManager extends Manager
     }
     ...
 }
+```
 
-```  
-但是有一点需要注意：
+3、 **替换掉默认的manager**
 
-This can be used to create an EVENTING-like system where you can override methods - even of core jalo classes - where you do not have source code access and you do not want to do a complete subtyping (i.e. create type MyProduct via items.xml).
+```xml
+<bean id="<extension>.manager" class="myPackage.jalo.MyProjectManager" init-method="init" scope="tenant" />
+```
 
-#### 首先给大家解释下 什么是Manager Beans?
+
+
+#### Manager Beans是什么?
 
 每一个extension都有一个manager bean，比如 `print extension`,就会有一个默认的 `PrintManager.class`.  
 
