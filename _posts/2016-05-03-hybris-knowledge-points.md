@@ -71,8 +71,6 @@ public class MyProjectManager extends Manager
 
 This can be used to create an EVENTING-like system where you can override methods - even of core jalo classes - where you do not have source code access and you do not want to do a complete subtyping (i.e. create type MyProduct via items.xml).
 
-我的理解是，你应该在一个extension初始化时，就注册进去，否则可能会导致 某些地方还调用到old jalo，你应该这样做：
-
 #### 首先给大家解释下 什么是Manager Beans?
 
 每一个extension都有一个manager bean，比如 `print extension`,就会有一个默认的 `PrintManager.class`.  
