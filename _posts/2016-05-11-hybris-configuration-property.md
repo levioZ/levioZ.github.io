@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Configuring the Behavior of hybris Commerce Suite"
-date:   2016-05-10 14:39:00
+date:   2016-05-11 14:39:00
 categories: hybris
 tags: property configuration
 excerpt: property优先级以及在hybris中如何读取property文件
