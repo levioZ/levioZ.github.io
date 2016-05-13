@@ -33,6 +33,7 @@ icon: bookmark
 * [Spring Integration Reference Manual](http://docs.spring.io/spring-integration/reference/htmlsingle/)
 * [thymeleaf](http://itutorial.thymeleaf.org/)
 * [极客学院](http://wiki.jikexueyuan.com/list/java/)
+* [csdn 知识库](http://lib.csdn.net/)
 
 ## 框架
 
