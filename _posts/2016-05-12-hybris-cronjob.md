@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何创建CronJob"
-date:   2016-05-11 14:00:00
+date:   2016-05-12 14:00:00
 categories: hybris
 tags: property configuration
 excerpt: property优先级以及在hybris中如何读取property文件
