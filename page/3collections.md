@@ -34,6 +34,7 @@ icon: bookmark
 * [thymeleaf](http://itutorial.thymeleaf.org/)
 * [极客学院](http://wiki.jikexueyuan.com/list/java/)
 * [csdn 知识库](http://lib.csdn.net/)
+* [Python 中文官方文档](http://python.usyiyi.cn/)
 
 ## 框架
 
