@@ -85,3 +85,17 @@ HEAD is now at 53c6b72 init project
 ## Mercurial(hg)
 
 ## MySql
+
+* **查看端口号**
+
+```
+mysql> show variables like 'port'
+   -> ;
++---------------+-------+
+| Variable_name | Value |
++---------------+-------+
+| port          | 3306  |
++---------------+-------+
+1 row in set (0.00 sec)
+
+``` 
