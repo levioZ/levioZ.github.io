@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "springBoot how to debug"
-date:   2016-05-22 16:08:00
+date:   2016-05-23 16:08:00
 categories: springBoot
 tags: springBoot debug remotes
 excerpt: 三种方式可以remote debug springboot application
