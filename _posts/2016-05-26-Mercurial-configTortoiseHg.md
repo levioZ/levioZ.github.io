@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何让TortoiseHg 记住用户名和密码"
-date:   2016-05-25 17:24:00
+date:   2016-05-26 17:24:00
 categories: Mercurial
 author: eli
 tags: Mercurial hg TortoiseHg
