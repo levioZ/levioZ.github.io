@@ -37,7 +37,7 @@ select {code} from {servicelayerjob} where {code} = 'sendRankingJob'
 
 ![cronjob](https://raw.githubusercontent.com/levioZ/levioZ.github.io/master/images/cronjob.png)  
 
-#### 如何trigger的运行周期
+#### 如何设置trigger的运行周期
 
 >Relative 属性设置为false时，是周期性运行，默认为每天，需要增加属性 weekInterval(为空会报错，给个值)
 
