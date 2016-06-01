@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Configuring the Behavior of hybris Commerce Suite"
+title:  "hybris如何加载property文件"
 date:   2016-05-11 14:39:00
 categories: hybris
 author: eli
